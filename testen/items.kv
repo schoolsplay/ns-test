@@ -1,0 +1,37 @@
+
+
+#: import win kivy.core.window
+
+<Square>:
+    id: square
+    size_hint: (None, None)
+
+    border: (10,10,10,10)
+    size: (0.15 * win.Window.width, 0.15 * win.Window.width)
+    canvas:
+        Color:
+            rgba: root.bg_color
+        Rectangle:
+            pos: self.pos
+            size: self.size
+
+<Circle>:
+    id: circle
+    size_hint: (None, None)
+
+    border: (10,10,10,10)
+    size: (0.15 * win.Window.width, 0.15 * win.Window.width)
+    canvas:
+        Color:
+            rgba: root.bg_color
+        Ellipse:
+            pos: self.pos
+            size: self.size
+
+<FinishedButton>:
+    id: finishedbutton
+    size_hint: 0.8, 0.2
+    pos_hint: {'center_x': 0.5, 'top': 0.3}
+    text: root.label_text
+    font_size: '36dp'
+    on_release: root.on_button_clicked()

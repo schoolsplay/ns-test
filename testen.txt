@@ -1,0 +1,18 @@
+Test 1
+Je krijgt gedurende een aantal minuten afwisselend een cirkel of vierkant of beide
+te zien wanneer de CIRKEL van kleur verspringt ( lees lichter wordt )
+druk je op de groene knop Daarbij hoor je ook nog een hoge toon of een
+lage bromtoon wanneer de lage bromtoon harder in geluid wordt druk je op de groene knop
+
+Test 2
+Weer een cirkel en vierkant wederom reageren op het verkleuren van de cirkel
+alleen moet dit nu 2x achter elkaar gebeuren dan op groene knop drukken
+ook hier een hoge en lage toon na het horen van 2x achter elkaar de lage
+toon druk je op de groene knop.
+Het vierkant moet hier dus genegeerd worden.
+
+Test 3
+Gebruikelijke knoppenkast
+
+Test 4
+30 minuten naar een vierkant kijken die soms verkleurt naar zwart dan op groene knop drukken
